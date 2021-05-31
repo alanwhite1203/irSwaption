@@ -79,5 +79,9 @@ Forward Premium Date	5/5/2020	Fixed Rate	0.02855	Spread	0
 
 
 Reference:
-https://finpricing.com/knowledge.html
+
+https://finpricing.com/lib/EqAutocallable.html
+
+https://bitbucket.org/cmrm11/irswaption/downloads/IrSwaption-37.pdf
+
 
